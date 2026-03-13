@@ -1,5 +1,6 @@
 #
 # Brayden Smith
+# 3/12/2026
 #
 # Series Diode Circuit Simulation
 # Diode Voltage/Current via Iterative Method
